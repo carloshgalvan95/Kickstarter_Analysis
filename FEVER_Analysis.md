@@ -32,6 +32,8 @@ We are going to filter the data based on parent category to focus on theater pla
 
 Finally, we can better visualize how the month of the year correlates to the outcome of the Kickstarter campaign using a line chart with a data point for each month and outcome.
 
+![https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 #### Kickstarter campaigns outcome based on Goals
 
 To evaluate this correlation we will need to use the function COUNTIFS() to collect the outcome and goal data for the “plays” subcategory.
@@ -43,6 +45,8 @@ Using a chart, we will be able to evaluate the correlation between the two varia
 ##### Data Visualization
 
 Just as we did with our launch dates vs outcomes comparison, to better visualize the information at hand we will be using a line chart to compare and contrast the successful, failed and canceled Kickstarter campaigns with the set goal amount targeted.
+
+![Outcomes vs Goals](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Possible challenges to overcome
 
@@ -94,3 +98,4 @@ This affirmation is something that may not be true in all cases, sometimes we ca
 ### Complex is not always better…
 
 Even thought we can rely on tables and raw data, the easier way for us to analyze the information we have been given is to present it in an easy-to-understand format. We already saw how helpful it is to use line charts to recognize patterns and take better decisions and we can further the observable data with the use of different tables and graphs.
+
