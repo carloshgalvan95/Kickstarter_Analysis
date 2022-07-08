@@ -68,9 +68,9 @@ The main reason to do this is given that the behavior or the target demographic 
 
 Another important factor to determine is the cultural context of our project. A perfect example to this is simply trying to see the top 3 most popular Netflix series in different countries.
 
-![Top 10 Netflix shows UK](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_UK.jpg)
+[![Top 10 Netflix shows UK](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_UK.jpg)](https://top10.netflix.com/united-kingdom/tv)
 
-![Top 10 Netflix shows US](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_US.jpg)
+[![Top 10 Netflix shows US](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_US.jpg)](https://top10.netflix.com/united-states/tv)
 
 We can quickly realize how the country is a relevant variable to take into account, even if the top 10 for just a week doesn’t vary a lot, if we start gathering more data it could be surprising to see the differences in appeal from one country to another.
 
