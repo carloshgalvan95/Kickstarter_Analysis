@@ -32,7 +32,7 @@ We are going to filter the data based on parent category to focus on theater pla
 
 Finally, we can better visualize how the month of the year correlates to the outcome of the Kickstarter campaign using a line chart with a data point for each month and outcome.
 
-![Theater_Outcomes_vs_Launch](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Theater_Outcomes_vs_Launch.png)
 
 #### Kickstarter campaigns outcome based on Goals
 
@@ -46,7 +46,7 @@ Using a chart, we will be able to evaluate the correlation between the two varia
 
 Just as we did with our launch dates vs outcomes comparison, to better visualize the information at hand we will be using a line chart to compare and contrast the successful, failed and canceled Kickstarter campaigns with the set goal amount targeted.
 
-![Outcomes vs Goals](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Outcomes_vs_Goals.png)
 
 ### Possible challenges to overcome
 
@@ -62,15 +62,15 @@ Let’s start with the more obvious classification, in our data we have informat
 
 The main reason to do this is given that the behavior or the target demographic that is going to possibly pledge to our cause is going to be very different to the average person, organization or company that will become interested in for example, Naptime: the first baby monitor that takes care of parents campaign which we also gathered data from.
 
-![Parent Category Outcomes](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
+![Parent Category Outcomes](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Parent%20Category%20Outcomes.png)
 
 #### Biscuits and cookies
 
 Another important factor to determine is the cultural context of our project. A perfect example to this is simply trying to see the top 3 most popular Netflix series in different countries.
 
-![Top 10 Netflix shows UK](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Top10Netflix_UK.jpg)
+![Top 10 Netflix shows UK](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_UK.jpg)
 
-![Top 10 Netflix shows US](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Top10Netflix_US.jpg)
+![Top 10 Netflix shows US](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_US.jpg)
 
 We can quickly realize how the country is a relevant variable to take into account, even if the top 10 for just a week doesn’t vary a lot, if we start gathering more data it could be surprising to see the differences in appeal from one country to another.
 
@@ -78,7 +78,7 @@ So, let’s put things into context and see how it compares if we add one more f
 
 We can see that even thought there are some differences between both charts, is safe to assume that in order to get more data samples, it would be beneficial to broad the data range to not just one country.
 
-![GB Theater Outcomes vs Launch Date](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/GB_Theater_Outcomes_vs_Launch.png)
+![GB Theater Outcomes vs Launch Date](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/GB_Theater_Outcomes_vs_Launch.png)
 
 ## Results
 
@@ -109,10 +109,10 @@ Even thought we can rely on tables and raw data, the easier way for us to analyz
 
 One perfect example of would be to use scatter chart to determine if there's any noticeable correlation between two variables. As we can see here using the tendency line we can easily determine if two variables have a positive or negative correlation, or no correlation at all.
 
-![Successful Campaigns Scatter Chart](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Successful_scatter_chart.png)
+![Successful Campaigns Scatter Chart](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Successful_scatter_chart.png)
 
 We can see here that based on our Scatter plot of the two variables, Goal amount of the Kickstarter campaings vs Outcome, for our successful campaigns there is a negative correlation to the probability of success when the Goal amount increases.
 
-![Failed Campaigns Scatter Chart](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/Failed_scatter_chart.png)
+![Failed Campaigns Scatter Chart](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Failed_scatter_chart.png)
 
 On the opposite side, we can see that there is a clear positive correlation to the probability of failure when the Goal amount increases. To sum things up, the bigger the goal, the higher the probability of failure.
