@@ -68,9 +68,9 @@ The main reason to do this is given that the behavior or the target demographic 
 
 Another important factor to determine is the cultural context of our project. A perfect example to this is simply trying to see the top 3 most popular Netflix series in different countries.
 
-[![Top 10 Netflix shows UK](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_UK.jpg)](https://top10.netflix.com/united-kingdom/tv)
-
-[![Top 10 Netflix shows US](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_US.jpg)](https://top10.netflix.com/united-states/tv)
+Top 10 Netflix shows UK                      |  Top 10 Netflix shows US
+:-------------------------:|:-------------------------:
+![Top 10 Netflix shows UK](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_UK.jpg)  |  ![Top 10 Netflix shows US](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Top10Netflix_US.jpg)
 
 We can quickly realize how the country is a relevant variable to take into account, even if the top 10 for just a week doesn’t vary a lot, if we start gathering more data it could be surprising to see the differences in appeal from one country to another.
 
@@ -109,10 +109,8 @@ Even thought we can rely on tables and raw data, the easier way for us to analyz
 
 One perfect example of would be to use scatter chart to determine if there's any noticeable correlation between two variables. As we can see here using the tendency line we can easily determine if two variables have a positive or negative correlation, or no correlation at all.
 
-![Successful Campaigns Scatter Chart](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Successful_scatter_chart.png)
+Successful Campaigns Scatter Chart                     |  Failed Campaigns Scatter Chart
+:-------------------------:|:-------------------------:
+![Successful Campaigns Scatter Chart](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Successful_scatter_chart.png)  |  ![Failed Campaigns Scatter Chart](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Failed_scatter_chart.png)
 
-We can see here that based on our Scatter plot of the two variables, Goal amount of the Kickstarter campaings vs Outcome, for our successful campaigns there is a negative correlation to the probability of success when the Goal amount increases.
-
-![Failed Campaigns Scatter Chart](https://github.com/carloshgalvan95/kickstarter-analysis/blob/main/IMAGES/Failed_scatter_chart.png)
-
-On the opposite side, we can see that there is a clear positive correlation to the probability of failure when the Goal amount increases. To sum things up, the bigger the goal, the higher the probability of failure.
+We can see here that based on our Scatter plot of the two variables, Goal amount of the Kickstarter campaings vs Outcome, for our successful campaigns there is a negative correlation to the probability of success when the Goal amount increases. On the opposite side, we can see that there is a clear positive correlation to the probability of failure when the Goal amount increases. To sum things up, the bigger the goal, the higher the probability of failure.
